@@ -1,5 +1,6 @@
-# Proyecto Bimestral
+# Primer Proyecto Bimestral
 
+- **Autor: [Nombre, Apellido]**
 - **Vencimiento: Jueves, 2 de junio**
 - **Calificación: .../10 (Auto califique su trabajo)**
 
